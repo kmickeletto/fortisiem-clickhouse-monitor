@@ -21,7 +21,7 @@ FortiSIEM ClickHouse Monitor is a Python tool designed to extract and monitor Cl
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fortisiem-clickhouse-monitor.git
+git clone https://github.com/kmickeletto/fortisiem-clickhouse-monitor.git
 cd fortisiem-clickhouse-monitor
 ```
 
