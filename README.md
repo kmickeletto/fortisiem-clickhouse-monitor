@@ -9,6 +9,7 @@ FortiSIEM ClickHouse Monitor is a Python tool designed to extract and monitor Cl
 - Supports automatic module installation.
 - Can be run as a daemon or installed as a systemd service.
 - Configurable with various JSON output color themes.
+- Daemon mode can be run on HA Supervisors and only the leader will generate the events
 
 ## Requirements
 
